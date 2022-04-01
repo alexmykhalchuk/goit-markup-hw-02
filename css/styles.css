@@ -171,6 +171,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
   background: #f5f4fa;
+  cursor: pointer;
 }
 
 .projects-filter-button:hover,
